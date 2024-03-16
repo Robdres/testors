@@ -1,0 +1,13 @@
+/home/robdres/codeTESIS/testors/binarize/target/debug/deps/indicatif-425103f5e8a88560.rmeta: /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/lib.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/draw_target.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/format.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/iter.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/multi.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/progress_bar.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/state.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/style.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/term_like.rs
+
+/home/robdres/codeTESIS/testors/binarize/target/debug/deps/indicatif-425103f5e8a88560.d: /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/lib.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/draw_target.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/format.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/iter.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/multi.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/progress_bar.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/state.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/style.rs /home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/term_like.rs
+
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/lib.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/draw_target.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/format.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/iter.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/multi.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/progress_bar.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/state.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/style.rs:
+/home/robdres/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.17.3/src/term_like.rs:
