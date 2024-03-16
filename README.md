@@ -5,8 +5,8 @@ Repository for R code to get non_binary datasets
 
 - randomData -> Code to generate random data for testing
 
-- binary -> Code to obtain the binary matrices from non_binary datasets with proposed method in paper
+- reductos -> Code to obtain nonbinary  discernibility matrices (proposed method)
 
-- reductos -> Code to obtain binary matrices 
-
+- binary -> Code to obtain the binary matrices from non_binary discenibility matrices
+  
 - UMDA -> Code to use the UMDA method to get quasi-testors
